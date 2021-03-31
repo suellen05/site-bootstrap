@@ -1,8 +1,7 @@
-.linha{
-    height: 200px;
-    width: 1px;
-    background: black;
-    position: absolute;
-    top: 200px;
-    
+i{
+    display: block;
+    width: 48px;
+    text-align: center;
+
 }
+    
